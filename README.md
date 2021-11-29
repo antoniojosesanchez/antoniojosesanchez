@@ -6,7 +6,8 @@ Mi nombre es Antonio José (AJ). Soy profesor y desarrollador fullstack. Actualm
 > **FRAMEWORKS**: [#Laravel](https://github.com/topics/Laravel) 
 
 ### Mis libros :books:
-[Desarrollo de Aplicaciones Web con PHP 8](https://leanpub.com/desarrollodeaplicacioneswebconphp8)
+
+<a href="https://leanpub.com/desarrollodeaplicacioneswebconphp8" target="_blank"><img src="https://d2sofvawe08yqg.cloudfront.net/desarrollodeaplicacioneswebconphp8/s_featured?1638025458" width="150px" title="Desarrollo de Aplicaciones Web con PHP 8" alt /></a>
 
 
 <!--
