@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Mi nombre es Antonio José (AJ). Soy profesor y desarrollador fullstack. Actualmente imparto clases en los módulos de Desarrollo Web en Entorno Servidor, Programación Multimedia y de Dispositivos Móviles, de Servicios y Procesos en el IES Campanillas (Málaga). Me encanta mi trabajo y el seguir aprendiendo día tras días. Compagino todo esto con mi afición al teatro, cine y cómics.
+
+> **LENGUAJES**: [#PHP](https://github.com/topics/PHP), [#Kotlin](https://github.com/topics/Kotlin), [#Java](https://github.com/topics/Java), [#JS](https://github.com/topics/JS), [#HTML5](https://github.com/topics/HTML5), [#CSS3](https://github.com/topics/CSS3)  
+> **FRAMEWORKS**: [#Laravel](https://github.com/topics/Laravel) 
+
+### Mis libros :books:
+[Desarrollo de Aplicaciones Web con PHP 8](https://leanpub.com/desarrollodeaplicacioneswebconphp8)
+
+
 <!--
 **bilbobolson/bilbobolson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
