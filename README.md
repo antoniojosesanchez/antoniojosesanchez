@@ -4,17 +4,17 @@ Mi nombre es Antonio José (AJ). Soy profesor y desarrollador fullstack. Actualm
 
 Compagino todo esto con mis aficiones: música 🎶, teatro 🎭, cine 🎬, cómics 🗯️, crossfit 🏋️‍♂️ y tiro con arco 🏹.
 
-### Tecnologías 👾
-<img src="https://github.com/antoniojosesanchez/antoniojosesanchez/blob/main/tecnologias.svg" />
-
 ### Mis libros :books:
 
 <p>
- 
 <a href="https://leanpub.com/desarrollodeaplicacioneswebconphp8" target="_blank"><img align="left" src="https://d2sofvawe08yqg.cloudfront.net/desarrollodeaplicacioneswebconphp8/s_featured?1638025458" width="80px" title="Desarrollo de Aplicaciones Web con PHP 8" alt /></a> La 2a Edición del manual de «<strong>Desarrollo de Aplicaciones Web con PHP 8</strong>» proporciona al lector una completa guía de referencia de los aspectos básicos del lenguaje estudiando desde conexiones con bases de datos, a conceptos como la <strong>recursividad</strong>, <strong>Orientación a Objetos</strong>, el patrón de diseño <strong>Modelo-Vista-Controlador</strong> y el framework para testing <strong>PHPUnit</strong>.
 </p>
 
 
+<br/>
+
+### Tecnologías 👾
+<img src="https://github.com/antoniojosesanchez/antoniojosesanchez/blob/main/tecnologias.svg" />
 <!--
 
 > **LENGUAJES**: [#PHP](https://github.com/topics/PHP), [#Kotlin](https://github.com/topics/Kotlin), [#Java](https://github.com/topics/Java), [#JS](https://github.com/topics/JS), [#HTML5](https://github.com/topics/HTML5), [#CSS3](https://github.com/topics/CSS3)  
