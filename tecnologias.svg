@@ -1,5 +1,5 @@
-<svg height="150" width="1000" viewBox="0 0 900 200" fill="none" xmlns="http://www.w3.org/2000/svg" data-reactroot="">
-  <foreignObject width="1000" height="212">
+<svg height="150" width="950" viewBox="0 0 950 150" fill="none" xmlns="http://www.w3.org/2000/svg" data-reactroot="">
+  <foreignObject width="950" height="150">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         * {
@@ -10,13 +10,13 @@
         #auth-wrapper {
           display: flex;
           flex-direction: column;
-          justify-content: center;
-          align-items: center;
+          justify-content: start;
+          align-items: start;
           padding: 1rem;
         }
 
         #title {
-          text-align: center;
+          text-align: start;
         }
 
         #token {
