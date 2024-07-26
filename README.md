@@ -4,8 +4,8 @@ Mi nombre es Antonio José (AJ). Soy profesor y desarrollador fullstack. Actualm
 
 Compagino todo esto con mis aficiones: música 🎶, teatro 🎭, cine 🎬, cómics 🗯️, crossfit 🏋️‍♂️ y tiro con arco 🏹.
 
-> **LENGUAJES**: [#PHP](https://github.com/topics/PHP), [#Kotlin](https://github.com/topics/Kotlin), [#Java](https://github.com/topics/Java), [#JS](https://github.com/topics/JS), [#HTML5](https://github.com/topics/HTML5), [#CSS3](https://github.com/topics/CSS3)  
-> **FRAMEWORKS**: [#Laravel](https://github.com/topics/Laravel) 
+### Tecnologías 👾
+<img src="https://github.com/antoniojosesanchez/antoniojosesanchez/blob/main/tecnologias.svg" />
 
 ### Mis libros :books:
 
@@ -13,6 +13,10 @@ Compagino todo esto con mis aficiones: música 🎶, teatro 🎭, cine 🎬, có
 
 
 <!--
+
+> **LENGUAJES**: [#PHP](https://github.com/topics/PHP), [#Kotlin](https://github.com/topics/Kotlin), [#Java](https://github.com/topics/Java), [#JS](https://github.com/topics/JS), [#HTML5](https://github.com/topics/HTML5), [#CSS3](https://github.com/topics/CSS3)  
+> **FRAMEWORKS**: [#Laravel](https://github.com/topics/Laravel) 
+
 **bilbobolson/bilbobolson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
