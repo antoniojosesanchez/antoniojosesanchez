@@ -9,7 +9,10 @@ Compagino todo esto con mis aficiones: música 🎶, teatro 🎭, cine 🎬, có
 
 ### Mis libros :books:
 
-<a href="https://leanpub.com/desarrollodeaplicacioneswebconphp8" target="_blank"><img src="https://d2sofvawe08yqg.cloudfront.net/desarrollodeaplicacioneswebconphp8/s_featured?1638025458" width="150px" title="Desarrollo de Aplicaciones Web con PHP 8" alt /></a>
+<p>
+ 
+<a href="https://leanpub.com/desarrollodeaplicacioneswebconphp8" target="_blank"><img align="left" src="https://d2sofvawe08yqg.cloudfront.net/desarrollodeaplicacioneswebconphp8/s_featured?1638025458" width="80px" title="Desarrollo de Aplicaciones Web con PHP 8" alt /></a> La 2a Edición del manual de «<strong>Desarrollo de Aplicaciones Web con PHP 8</strong>» proporciona al lector una completa guía de referencia de los aspectos básicos del lenguaje estudiando desde conexiones con bases de datos, a conceptos como la <strong>recursividad</strong>, <strong>Orientación a Objetos</strong>, el patrón de diseño <strong>Modelo-Vista-Controlador</strong> y el framework para testing <strong>PHPUnit</strong>.
+</p>
 
 
 <!--
